@@ -1,0 +1,6 @@
+res://title_scene/title_scene.tscn
+res://Items/a_tunic.tres
+res://Items/w_iron_sword.tres
+res://GUI/pause_menu/inventory/player_inventory.tres
+res://GUI/dialog_system/dialog_choice_theme.tres
+res://Items/gem.tres
